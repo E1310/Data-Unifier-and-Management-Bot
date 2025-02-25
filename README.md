@@ -25,7 +25,7 @@ This tool eliminates the hassle of manually preparing BoMs by **automating file 
 ✅ **Easy Data Mapping** – Assigns raw materials to specific attribute values with a user-friendly interface.
 
 ## Installation
-No installation is needed, its packaged to run on its own
+No installation is needed, its packaged to run on its own. go to dist/ and download the DUMB.exe file
 
 ### **Dependencies**
 Ensure you have the following installed:
