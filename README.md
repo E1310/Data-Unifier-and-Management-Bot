@@ -25,7 +25,7 @@ This tool eliminates the hassle of manually preparing BoMs by **automating file 
 ✅ **Easy Data Mapping** – Assigns raw materials to specific attribute values with a user-friendly interface.
 
 ## Installation
-No installation is needed, its packaged to run on its own. go to dist/ and download the DUMB.exe file
+No installation is needed, it's packaged to run on its own. go to [Releases](https://github.com/E1310/Data-Unifier-and-Management-Bot/releases/tag/v1.0.0) to donwload. 
 
 ### **Dependencies**
 Ensure you have the following installed:
@@ -33,10 +33,11 @@ Ensure you have the following installed:
 - Pandas
 - PyQt6
 - OpenPyXL
+- 
 
 Install dependencies with:
 ```sh
-pip install pandas pyqt6 openpyxl
+pip install -r requirements.txt
 ```
 
 ## Usage Guide
